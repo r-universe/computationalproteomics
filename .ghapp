@@ -1,0 +1,10 @@
+{
+  "id": 62243113,
+  "created_at": "2025-03-07T17:06:37.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["proteoDeconv", "computationalproteomics.r-universe.dev"]
+}
