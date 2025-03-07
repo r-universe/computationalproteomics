@@ -1,0 +1,21 @@
+[
+  {
+    "package": "BayesDeBulk",
+    "url": "https://github.com/WangLab-MSSM/BayesDeBulk",
+    "via": ["proteoDeconv"],
+    "subdir": "BayesDeBulk",
+    "from": "proteoDeconv"
+  },
+  {
+    "package": "EPIC",
+    "url": "https://github.com/GfellerLab/EPIC",
+    "via": ["proteoDeconv"],
+    "from": "proteoDeconv"
+  },
+  {
+    "package": "SimBu",
+    "url": "https://github.com/omnideconv/SimBu",
+    "via": ["proteoDeconv"],
+    "from": "proteoDeconv"
+  }
+]

@@ -2,6 +2,19 @@
 	path = .registry
 	url = https://github.com/computationalproteomics/computationalproteomics.r-universe.dev
 	branch = HEAD
+[submodule "BayesDeBulk"]
+	path = BayesDeBulk
+	url = https://github.com/WangLab-MSSM/BayesDeBulk
+	subdir = BayesDeBulk
+	registered = false
+[submodule "EPIC"]
+	path = EPIC
+	url = https://github.com/GfellerLab/EPIC
+	registered = false
+[submodule "SimBu"]
+	path = SimBu
+	url = https://github.com/omnideconv/SimBu
+	registered = false
 [submodule "proteoDeconv"]
 	path = proteoDeconv
 	url = https://github.com/ComputationalProteomics/proteoDeconv
